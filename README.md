@@ -1,6 +1,6 @@
-# Galans Dance 💃
+# Gala Dance 💃
 <br>
-Galans Dance is dance and life coach academy to improve yourself via dancing.<br>
+Gala Dance is dance and life coach academy to improve yourself via dancing.<br>
 The website is on Blogger platform.<br>
 :arrow_right: https://galansdanceclub.blogspot.com/p/blog-page.html <br>
 Enjoy! :) <br>
