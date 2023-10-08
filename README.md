@@ -1,6 +1,6 @@
 # Galans Dance 💃
 <br>
-:pushpin: Galans Dance is dance and life coach academy to improve yourself via dancing.<br>
+:pushpin: Galans Dance is dance and life coach academy.<br>
 
 ⭐ The website is on Blogger platform.<br>
 
