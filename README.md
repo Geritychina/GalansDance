@@ -1,20 +1,47 @@
 # Galans Dance 💃
 
+**Galans Dance** is a dance and life coaching academy dedicated to empowering individuals through movement, creativity, and personal growth. This repository contains references and development notes for the academy’s official websites.
 
-:pushpin: Galans Dance is dance and life coach academy.<br>
+---
 
-⭐ The website is on Blogger platform.<br>
+## 🌐 Live Websites
 
-:arrow_right: https://galansdanceclub.blogspot.com/ <br>
+- **Original Blogger site**: [galansdanceclub.blogspot.com](https://galansdanceclub.blogspot.com/)
+- **Updated WordPress site**: [galinaconsults.wordpress.com](https://galinaconsults.wordpress.com/)
 
-Enjoy! :) <br>
+---
 
-👉 The website is in optimization and development.... <br>
+## 🛠️ Technologies Used
 
-❗UPDATE❗
+- **Blogger**  
+  Used for the initial launch of the website. It provided a quick and easy way to establish an online presence.
 
-The blogger is deprecated, but still in use!
+- **WordPress**  
+  The new site is built on WordPress for more flexibility, customization, and long-term scalability.
 
-You can visit :arrow_right: https://galinaconsults.wordpress.com/
+---
+
+## 🚧 Project Status
+
+- ✅ The WordPress site is the current and active platform.
+- 🕸️ The Blogger site is deprecated but remains accessible as an archive.
+
+---
+
+## 🎯 About Galans Dance
+
+Galans Dance offers:
+- Dance education programs
+- Life coaching services
+- Creative self-expression through movement
+- Empowerment through body and mind alignment
+
+The academy’s mission is to help individuals discover their strength, confidence, and joy through movement and mentorship.
+
+---
+
+## ❤️ Author
+
+Created and maintained by [@Geritychina](https://github.com/Geritychina)
 
 Made with love by Gergana ™
