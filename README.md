@@ -24,7 +24,7 @@
 ## 🚧 Project Status
 
 - ✅ The WordPress site is the current and active platform.
-- 🕸️ The Blogger site is deprecated but remains accessible as an archive.
+- 🕸️ The Blogger site is deprecated but remains as an archive.
 
 ---
 
